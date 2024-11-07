@@ -1,0 +1,12 @@
+@font-face {
+    font-family: WarWound;
+    src: url(./fonts/WarWound.otf);
+}
+
+h1 {
+    font-family: WarWound;
+}
+
+.rf {
+    font-family: "Playwrite US Trad", cursive;
+}
